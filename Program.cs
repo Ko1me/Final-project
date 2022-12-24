@@ -13,3 +13,19 @@ for(int i = 0;i<size;i++)
         newsize++;
     }
 }
+string[] newWords = new string[newsize];
+int t=0;
+for(int i = 0;i<size;i++)
+{
+    if(words[i].Length<=3)
+    {
+        newWords[t]=words[i];
+        t++;
+    }
+}
+Console.Write("Новый массив = [");
+for(int i=0;i<newsize;i++)
+    {
+        Console.Write(newWords[i] +", ");
+    }
+Console.WriteLine("]");
