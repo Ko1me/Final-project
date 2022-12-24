@@ -1,0 +1,15 @@
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\bin\Debug\net7.0\Итоговый проект.exe
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\bin\Debug\net7.0\Итоговый проект.deps.json
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\bin\Debug\net7.0\Итоговый проект.runtimeconfig.json
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\bin\Debug\net7.0\Итоговый проект.dll
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\bin\Debug\net7.0\Итоговый проект.pdb
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.csproj.AssemblyReference.cache
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.AssemblyInfoInputs.cache
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.AssemblyInfo.cs
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.csproj.CoreCompileInputs.cache
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.dll
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\refint\Итоговый проект.dll
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.pdb
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\Итоговый проект.genruntimeconfig.cache
+C:\Users\79197\Desktop\GU_3515\GU_3515\Итоговый проект\obj\Debug\net7.0\ref\Итоговый проект.dll
